@@ -2,8 +2,6 @@
 
 ![3aesn's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=quak910&theme=tokyonight&layout=compact)
 
-![3aesn's GitHub stats](https://github-readme-stats.vercel.app/api?username=quak910&theme=tokyonight&count_private=true)
-
 ![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)
 
  
